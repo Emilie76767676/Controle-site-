@@ -1,6 +1,6 @@
 <?php
 try {
-  $pdo = new PDO('mysql:host=localhost;dbname=Controle site',
+  $pdo = new PDO('mysql:host=localhost;dbname=site',
   'root', '',
   array(
         PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',

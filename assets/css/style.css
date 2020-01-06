@@ -1,5 +1,32 @@
 @import url("reset.css");
 
 body{
-  background-color: red;
+  background-color: crimson;
+}
+nav {
+  height: 54px
+}
+
+header nav ul a {
+  float: left;
+  width: 19.80%;
+  text-align: center;
+  text-decoration: none;
+  color: #FEE6D0;
+  padding: 15px 0;
+  border-left: #fff 2px solid;
+  background-color:#211819;
+}
+
+header nav ul li a:hover {
+  border-bottom: #FFA0C4 2px solid;
+  color: #4D87A5;
+}
+
+.titresite {
+  padding: 80px 0;
+  text-align: center;
+  font-size: 2.2em;
+  background-color: #E8C0B3;
+  color: #211818;
 }

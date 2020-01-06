@@ -28,14 +28,14 @@ if (isset($_POST['frmContact'])) {
     require 'frmContact.php';
   }
   else {
-    $sqlVerif = "SELECT COUNT(*) FROM Controle site
+    $sqlVerif = "SELECT COUNT(*) FROM site
     WHERE mail='" . $mail ."'";
     $nbrOccurences = $pdo->query($sqlVerif)->fetchColumn();
     if ($nbrOccurences > 0) {
       echo "Déjà chez Kris";
     }
 else {
-    $sql = "INSERT INTO Controle site (nom, prenom, mail, tel, message) VALUES  ('" . $nom . "', '" . $prenom . "', '" . $mail ."', '" . $tel ."', '" . $message ."')";
+    $sql = "INSERT INTO site (nom, prenom, mail, tel, message) VALUES  ('" . $nom . "', '" . $prenom . "', '" . $mail ."', '" . $tel ."', '" . $message ."')";
     $query = $pdo->prepare($sql);
     $query->bindValue(':nom', $nom, PDO::PARAM_STR);
     $query->bindValue(':prenom', $prenom, PDO::PARAM_STR);

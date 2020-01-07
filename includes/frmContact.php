@@ -31,3 +31,4 @@
   </fieldset>
   <input type="hidden" name="frmContact" />
 </form>
+<img src="./assets/image/giphy.gif"/>

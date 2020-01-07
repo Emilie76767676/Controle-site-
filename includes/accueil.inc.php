@@ -1,9 +1,18 @@
-<h1>Bienvenue sur mon site</h1>
+<h2>Bienvenue tout d'abord je me présente Ostheimer Emilie 26ans </h2>
+<p>
+Actuellement en formation référent digital a la Nfactory school à rouen.
+A la suite de cette formation nous devons effectuer un stage.
+d'une durée de 2 mois.
+Idéalement j'aimerais réaliser ce stage dans une entreprise de communication et/ou de marketing.
+Je vous laisse consultez mon profil n'hésitez pas a me recontactez pour plus d'infos </p>
+
+ <img src="./assets/image/image comm.webp" alt="code">
 <section class="orange">
       <div class="leftexp">
-        <p> </p>Se forger une solide culture générale ne se fait pas en un jour. Une fréquentation assidue de Moncerveau vous aidera dans cette tâche de longue haleine, en évitant l'écueil de la lassitude. Le site met quotidiennement à l'honneur une ' anecdote ' qui peut aussi bien être le portrait d'un personnage qu'une particularité de la nature ou un fait scientifique. C'est rapide à lire, ce qui vous laisse ensuite le temps d'aller découvrir le mot du jour. Ainsi, vous ne froncerez plus les sourcils d'incompréhension quand vous entendrez des mots comme hédoniste ou népotisme ! Devinettes, vrai-faux, quiz complètent ce site touche-à-tout de la culture.
+        <p> </p>
         <p></p>
           </div>
       <div class="rightexp">
         <p></p>
       </div>
+</section>

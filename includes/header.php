@@ -1,5 +1,5 @@
 <header>
-  <h1 class="titresite">Le site </h1>
+  <h1 class="titresite"> Recherche de stage  </h1>
   <nav>
     <ul>
       <li><a href="index.php?page=accueil" title="Page d'accueil">Accueil</a></li>

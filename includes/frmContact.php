@@ -1,6 +1,6 @@
 <form action="index.php?page=contact" method="post">
   <fieldset>
-    <legend>Pour me contacter</legend>
+    <legend>Pour Me Contacter</legend>
   <div>
     <label for="nom">Nom :</label>
     <input type="text" name="nom" id="nom"  />
@@ -10,17 +10,13 @@
     <input type="text" name="prenom" id="prenom" />
   </div>
   <div>
-    <label for="mail">e-mail :</label>
+    <label for="mail">E-mail :</label>
     <input type="email" name="mail" id="mail"  />
   </div>
-  </fieldset>
-<fieldset>
   <div>
-    <label for="tel">tel :</label>
+    <label for="tel">Téléphone :</label>
     <input type="tel" name="tel" id="tel" />
   </div>
-</fieldset>
-  <fieldset>
   <div>
     <label for="message">Message :</label>
     <textarea name="message" id="message"></textarea>

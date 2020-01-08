@@ -75,4 +75,35 @@ div#hobbies p{
   text-align: center;
   margin-bottom: 25px;
 }
-  
+/*CSS Mentions*/
+#info{
+font-size: 15px;
+}
+
+/*CSS FrmContact*/
+fieldset {
+border: black 5px solid;
+width: 400px;
+text-align: center;
+margin: 50px 0 50px 0;
+margin-left: 725px;
+border-radius: 2em;
+
+}
+textarea{
+  resize: none;
+}
+
+.titresite{
+  position: relative;
+  font-weight: 900;
+  font-size: 4.5em;
+}
+.titresite .letters {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  top: 0.3em;
+  right: 0;
+  opacity: 0;
+}

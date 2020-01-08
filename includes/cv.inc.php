@@ -39,3 +39,4 @@
 <h1>Centre D'interet</h1>
 <p>J'adore l'équitation , le cheval c'est trop génial</p>
 </div>
+<a href="index.php?page=cveng">Si tu veux voir mon cv en anglais</a>

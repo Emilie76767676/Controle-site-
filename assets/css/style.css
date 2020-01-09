@@ -7,7 +7,67 @@ body{
 nav {
   height: 54px;
 }
+/*CSS ACCUEIL*/
+.accueille h2{
+  font-size: 35px;
+  font-family: Trebuchet;
+  text-align: center;
+}
+.accueille p{
+  text-align: left;
+  font-size: 25px;
+  margin: 10px 100px 10px 100px;
+  border: grey 4px solid;
+  background-color:white;
+  color: black;
+  opacity: 75%;
+  width: 700px;
+  font-family: Trebuchet;
+  border-radius: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.accueille p:hover{
+background-color: #A1D5FF;
+  }
+.orange p{
+  text-align: center;;
+  font-size: 25px;
+  margin: 100px 100px 100px 100px;
+  border: grey 4px solid;
+  background-color:white;
+  opacity: 75%;
+  width: 700px;
+  font-family: trebuchet;
+  border-radius: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.orange p:hover{
+  background-color: #A1D5FF;
+  }
 
+
+.orange a{
+  color: pink;
+}
+.accueille a{
+  color: pink;
+}
+body.photoaccueil{
+  background-image: url("https://cdn.pixabay.com/photo/2015/03/26/09/40/keyboard-690066_960_720.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+/*FOOTER CSS*/
+Footer{
+  text-align: center;
+  color: pink;
+  font-family: trebuchet;
+  font-size: 35px;
+  margin-top: 200px;
+}
+/*CSS HEADER*/
 header nav ul a {
   float: left;
   width: 19.80%;

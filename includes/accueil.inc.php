@@ -12,7 +12,7 @@ Je vous laisse consultez mon profil n'hésitez pas a me recontactez pour plus d'
       <div class="leftexp">
         <p>Je suis pationnée depuis mon enfance à tous ce qui touche au monde du  <a href="https://fr.wikipedia.org/wiki/Num%C3%A9rique">numérique</a>,
         j'adore aussi les jeux vidéos et les réseaux sociaux.</br><a href="https://interstices.info/sciences-du-numerique-et-impact-sur-la-societe/">UN PEU DE CULTURE</a>
-        Je réside actuellement à Rouen et je suis disponible pour un entretien..</p></  </div>
+        </p></  </div>
       <div class="rightexp">
       </div>
 </section>
